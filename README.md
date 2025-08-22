@@ -34,8 +34,6 @@
 
 ---
 
-## 🛠️ Getting Started
-
 ### 1️⃣ Clone the repository
 ```bash
 git clone https://github.com/username/Amoura-Fashion.git

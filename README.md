@@ -100,6 +100,10 @@ Here are some preview images from the **Amoura Fashion Website**:
 </p>
 
 ### 🛠️ Admin Dashboard
+<img width="705" height="603" alt="image" src="https://github.com/user-attachments/assets/672f141b-5136-441c-833c-f2c8d63db266" />
+<img width="670" height="539" alt="image" src="https://github.com/user-attachments/assets/6e67a344-52b8-4a5d-a774-287d86f281af" />
+<img width="661" height="676" alt="image" src="https://github.com/user-attachments/assets/bac6251f-9444-4127-9152-c851f38853c6" />
+
 
 
 
